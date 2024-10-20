@@ -1,6 +1,6 @@
 Project Overview
 
-This repository contains the materials and final results of my Year 1 individual project. The main focus of this project is to compare two methods of point process simulation: thinning and interval. These methods are used to solve a specific problem, and their performance is analyzed through different metrics.
+This repository contains the materials and final results of my Year 1 individual project. The main focus of this project is to compare two methods of point process simulation: thinning and interval. 
 
 Files in the Repository
 
